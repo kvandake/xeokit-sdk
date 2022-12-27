@@ -1,5 +1,5 @@
-import {Plugin} from "@xeokit/viewer";
-import {Bitmap, LineSet, math, SectionPlane} from "@xeokit/viewer/scene";
+import {Plugin} from "ct-xeokit-viewer";
+import {Bitmap, LineSet, math, SectionPlane} from "ct-xeokit-viewer/scene";
 
 const tempVec3 = math.vec3();
 const tempVec3a = math.vec3();

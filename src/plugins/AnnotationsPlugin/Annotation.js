@@ -1,4 +1,4 @@
-import {Marker, utils} from "@xeokit/viewer/scene";
+import {Marker, utils} from "ct-xeokit-viewer/scene";
 
 /**
  * A {@link Marker} with an HTML label attached to it, managed by an {@link AnnotationsPlugin}.
