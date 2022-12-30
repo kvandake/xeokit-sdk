@@ -1,5 +1,5 @@
-import {Plugin} from "@xeokit/viewer";
-import {Node, utils} from "@xeokit/viewer/scene";
+import {Plugin} from "ct-xeokit-viewer";
+import {Node, utils} from "ct-xeokit-viewer/scene";
 import {STLSceneGraphLoader} from "./STLSceneGraphLoader.js";
 import {STLDefaultDataSource} from "./STLDefaultDataSource.js";
 

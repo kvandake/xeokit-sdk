@@ -1,5 +1,4 @@
-import {Plugin} from "@xeokit/viewer";
-import {math, SectionPlane} from "@xeokit/viewer/scene";
+import {Plugin, math, SectionPlane} from "ct-xeokit-viewer";
 import {Control} from "./Control.js";
 import {Overview} from "./Overview.js";
 

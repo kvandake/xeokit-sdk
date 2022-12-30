@@ -1,7 +1,7 @@
 import * as WebIFC from "web-ifc/web-ifc-api.js";
 
-import {IFCObjectDefaults, Plugin} from "@xeokit/viewer";
-import {math, utils, VBOSceneModel, worldToRTCPositions} from "@xeokit/viewer/scene"
+import {IFCObjectDefaults, Plugin} from "ct-xeokit-viewer";
+import {math, utils, VBOSceneModel, worldToRTCPositions} from "ct-xeokit-viewer/scene"
 import {WebIFCDefaultDataSource} from "./WebIFCDefaultDataSource.js";
 
 /**

@@ -1,4 +1,4 @@
-import { Plugin, Viewer } from "@xeokit/viewer/types";
+import { Plugin, Viewer } from "ct-xeokit-viewer/types";
 
 export declare type FastNavPluginConfiguration = {
   /** Optional ID for this plugin, so that we can find it within {@link Viewer.plugins}. */

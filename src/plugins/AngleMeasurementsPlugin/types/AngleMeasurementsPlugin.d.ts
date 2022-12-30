@@ -1,4 +1,4 @@
-import { Entity, Plugin, Viewer } from "@xeokit/viewer/types";
+import { Entity, Plugin, Viewer } from "ct-xeokit-viewer/types";
 import { AngleMeasurement } from "./AngleMeasurement";
 import { AngleMeasurementsControl } from "./AngleMeasurementsControl";
 

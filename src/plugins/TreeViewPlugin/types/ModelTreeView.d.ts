@@ -1,4 +1,4 @@
-import { MetaModel } from "@xeokit/viewer/types";
+import { MetaModel } from "ct-xeokit-viewer/types";
 
 /**
  * Represents a model tree view within a {@link TreeViewPlugin}.

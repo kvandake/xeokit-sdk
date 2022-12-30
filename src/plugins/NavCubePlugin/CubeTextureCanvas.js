@@ -1,4 +1,4 @@
-import {math} from "@xeokit/viewer";
+import {math} from "ct-xeokit-viewer";
 
 /**
  * @private

@@ -1,4 +1,4 @@
-import {Map} from "@xeokit/viewer";
+import {Map} from "ct-xeokit-viewer";
 
 const idMap = new Map();
 

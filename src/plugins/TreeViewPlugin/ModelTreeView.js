@@ -1,4 +1,4 @@
-import {Map} from "@xeokit/viewer/scene";
+import {Map} from "ct-xeokit-viewer/scene";
 import {
     validateMetaModelForTreeViewContainmentHierarchy,
     validateMetaModelForTreeViewStoreysHierarchy,

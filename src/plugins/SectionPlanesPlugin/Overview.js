@@ -1,4 +1,4 @@
-import {DirLight, math, Scene} from "@xeokit/viewer/scene";
+import {DirLight, math, Scene} from "ct-xeokit-viewer";
 import {Plane} from "./Plane.js";
 
 /**

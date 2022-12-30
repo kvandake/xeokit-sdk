@@ -1,4 +1,4 @@
-import { Plugin, Viewer } from "@xeokit/viewer/types";
+import { Plugin, Viewer } from "ct-xeokit-viewer/types";
 import { ModelTreeView } from "./ModelTreeView";
 import { TreeViewNode } from "./TreeViewNode";
 

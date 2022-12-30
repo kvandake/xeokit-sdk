@@ -1,4 +1,4 @@
-import { Plugin, Viewer, Entity } from "@xeokit/viewer/types";
+import { Plugin, Viewer, Entity } from "ct-xeokit-viewer/types";
 
 export declare type LoadOBJModel = {
   /** ID to assign to the model's root {@link Entity}, unique among all components in the Viewer's {@link Scene}. */

@@ -1,4 +1,4 @@
-import { Component } from "@xeokit/viewer/types";
+import { Component } from "ct-xeokit-viewer/types";
 import { DistanceMeasurement } from "./DistanceMeasurement";
 import { DistanceMeasurementsPlugin } from "./DistanceMeasurementsPlugin";
 

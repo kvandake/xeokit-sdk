@@ -1,4 +1,4 @@
-import { Plugin, Viewer, VBOSceneModel } from "@xeokit/viewer/types";
+import { Plugin, Viewer, VBOSceneModel } from "ct-xeokit-viewer/types";
 
 export declare type XML3DLoaderPluginConfiguration = {
   /** Optional ID for this plugin, so that we can find it within {@link Viewer.plugins}. */

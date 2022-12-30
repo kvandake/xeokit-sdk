@@ -1,4 +1,4 @@
-import { Marker } from "@xeokit/viewer/types";
+import { Marker } from "ct-xeokit-viewer/types";
 import { AnnotationsPlugin } from "./AnnotationsPlugin";
 
 /**

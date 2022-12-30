@@ -6,7 +6,7 @@ import {
     Mesh,
     PhongMaterial,
     ReadableGeometry,
-} from "@xeokit/viewer/scene";
+} from "ct-xeokit-viewer";
 
 /**
  * Renders a 3D plane within an {@link Overview} to indicate its {@link SectionPlane}'s current position and orientation.

@@ -1,5 +1,5 @@
-import {Plugin} from "@xeokit/viewer";
-import {math, utils, VBOSceneModel} from "@xeokit/viewer/scene";
+import {Plugin} from "ct-xeokit-viewer";
+import {math, utils, VBOSceneModel} from "ct-xeokit-viewer/scene";
 import {LASDefaultDataSource} from "./LASDefaultDataSource.js";
 import {parse} from '../../../node_modules/@loaders.gl/core/dist/esm/index.js';
 import {LASLoader} from '../../../node_modules/@loaders.gl/las/dist/esm/las-loader.js';

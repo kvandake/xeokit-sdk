@@ -1,13 +1,12 @@
 {
-  "name": "@xeokit/annotations-plugin",
-  "version": "1.5.0",
+  "name": "ct-xeokit-annotations-plugin",
+  "version": "0.0.5",
   "private": false,
   "module": "./dist/annotations.es.js",
   "main": "./dist/annotations.cjs.js",
   "types": "./types/index.d.ts",
   "publishConfig": {
-    "access": "public",
-    "registry": "http://localhost:4873"
+    "access": "public"
   },
   "files": [
     "dist",
@@ -17,7 +16,7 @@
     "build": "rm -rf dist && cross-env NODE_ENV=production PLUGIN=annotations INPUT=./index.js rollup -c ../../../rollup/rollup.packages.config.js"
   },
   "dependencies": {
-    "@xeokit/viewer": "^1.5.0"
+    "ct-xeokit-viewer": "0.0.0"
   },
   "description": "Web Programming Toolkit for 3D/2D BIM and AEC Graphics",
   "homepage": "https://xeokit.io",

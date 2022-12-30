@@ -1,5 +1,5 @@
-import {Plugin} from '@xeokit/viewer';
 import {
+    Plugin,
     AmbientLight,
     buildCylinderGeometry,
     buildSphereGeometry,
@@ -10,7 +10,7 @@ import {
     PhongMaterial,
     ReadableGeometry,
     Scene,
-} from "@xeokit/viewer/scene";
+} from 'ct-xeokit-viewer';
 
 /**
  * {@link Viewer} plugin that shows the axii of the World-space coordinate system.

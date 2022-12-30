@@ -1,4 +1,4 @@
-import {Component, math} from "@xeokit/viewer/scene";
+import {Component, math} from "ct-xeokit-viewer/scene";
 
 const FINDING_ORIGIN = 0;
 const FINDING_CORNER = 1;

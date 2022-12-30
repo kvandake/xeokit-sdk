@@ -7,7 +7,7 @@
  */
 
 import pako from 'pako';
-import {utils} from "@xeokit/viewer";
+import {utils} from "ct-xeokit-viewer";
 
 function extract(elements) {
     return {

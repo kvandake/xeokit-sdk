@@ -1,4 +1,4 @@
-import { Plugin, SectionPlane, Viewer } from "@xeokit/viewer/types";
+import { Plugin, SectionPlane, Viewer } from "ct-xeokit-viewer/types";
 
 export declare type SectionPlanesPluginConfiguration = {
   /** Optional ID for this plugin, so that we can find it within {@link Viewer.plugins}. */

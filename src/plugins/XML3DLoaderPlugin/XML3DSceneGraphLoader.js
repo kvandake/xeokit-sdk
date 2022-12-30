@@ -7,7 +7,7 @@ import {
     PhongMaterial,
     ReadableGeometry,
     SpecularMaterial,
-} from "@xeokit/viewer/scene";
+} from "ct-xeokit-viewer/scene";
 
 import {zipLib} from "./zipjs/zip.js";
 import {zipExt} from "./zipjs/zip-ext.js";

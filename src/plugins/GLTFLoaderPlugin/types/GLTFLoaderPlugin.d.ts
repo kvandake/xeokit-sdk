@@ -1,4 +1,4 @@
-import { Plugin, Viewer, Entity, IFCObjectDefaults } from "@xeokit/viewer/types";
+import { Plugin, Viewer, Entity, IFCObjectDefaults } from "ct-xeokit-viewer/types";
 
 export declare interface IGLTFDefaultDataSource {
   /**

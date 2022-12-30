@@ -3,8 +3,8 @@
 */
 
 import pako from 'pako';
-import {utils, math} from "@xeokit/viewer";
-import {geometryCompressionUtils} from "@xeokit/viewer/scene/math/geometryCompressionUtils";
+import {utils, math} from "ct-xeokit-viewer";
+import {geometryCompressionUtils} from "ct-xeokit-viewer/scene/math/geometryCompressionUtils";
 
 const tempVec4a = math.vec4();
 const tempVec4b = math.vec4();

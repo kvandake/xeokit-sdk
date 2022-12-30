@@ -1,4 +1,4 @@
-import { ModelStats, Plugin, Viewer, VBOSceneModel, IFCObjectDefaults } from "@xeokit/viewer/types";
+import { ModelStats, Plugin, Viewer, VBOSceneModel, IFCObjectDefaults } from "ct-xeokit-viewer/types";
 
 /**
  * Default data access strategy for {@link WebIFCLoaderPlugin}.

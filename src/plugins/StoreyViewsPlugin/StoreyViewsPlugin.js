@@ -1,5 +1,5 @@
-import {Plugin} from "@xeokit/viewer";
-import {CameraMemento, math, ObjectsMemento, utils} from "@xeokit/viewer/scene";
+import {Plugin, CameraMemento, math, ObjectsMemento} from "ct-xeokit-viewer";
+import {utils} from "ct-xeokit-viewer/scene";
 import {IFCStoreyPlanObjectStates} from "./IFCStoreyPlanObjectStates.js";
 import {Storey} from "./Storey.js";
 import {StoreyMap} from "./StoreyMap.js";

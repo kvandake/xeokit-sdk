@@ -1,4 +1,4 @@
-import { Plugin, Viewer } from "@xeokit/viewer/types";
+import { Plugin, Viewer } from "ct-xeokit-viewer/types";
 
 /**
  * {@link Viewer} plugin that manages skyboxes

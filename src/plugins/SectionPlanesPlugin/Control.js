@@ -8,8 +8,8 @@ import {
     Node,
     PhongMaterial,
     ReadableGeometry,
-    worldToRTCPos,
-} from "@xeokit/viewer/scene";
+} from "ct-xeokit-viewer";
+import { worldToRTCPos } from "ct-xeokit-viewer/scene";
 
 const zeroVec = new Float64Array([0, 0, 1]);
 const quat = new Float64Array(4);

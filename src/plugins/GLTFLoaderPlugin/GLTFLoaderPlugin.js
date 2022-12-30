@@ -1,5 +1,5 @@
-import {Plugin, IFCObjectDefaults} from "@xeokit/viewer";
-import {utils, VBOSceneModel} from "@xeokit/viewer/scene"
+import {Plugin, IFCObjectDefaults} from "ct-xeokit-viewer";
+import {utils, VBOSceneModel} from "ct-xeokit-viewer/scene"
 import {GLTFVBOSceneModelLoader} from "./GLTFVBOSceneModelLoader.js";
 import {GLTFDefaultDataSource} from "./GLTFDefaultDataSource.js";
 

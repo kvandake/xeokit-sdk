@@ -1,6 +1,6 @@
-import {Plugin} from "@xeokit/viewer";
-import {Frustum, frustumIntersectsAABB3, setFrustum, math} from "@xeokit/viewer/scene";
-import {getObjectCullStates} from "@xeokit/shared-plugin-lib";
+import {Plugin, math} from "ct-xeokit-viewer";
+import {Frustum, frustumIntersectsAABB3, setFrustum} from "ct-xeokit-viewer/scene";
+import {getObjectCullStates} from "ct-xeokit-shared-plugin-lib";
 
 const MAX_KD_TREE_DEPTH = 8; // Increase if greater precision needed
 

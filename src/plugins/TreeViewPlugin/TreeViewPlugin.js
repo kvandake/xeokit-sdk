@@ -1,4 +1,4 @@
-import {Plugin} from "@xeokit/viewer";
+import {Plugin} from "ct-xeokit-viewer";
 import {ModelTreeView} from "./ModelTreeView.js";
 
 /**

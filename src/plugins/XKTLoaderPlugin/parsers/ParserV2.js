@@ -9,7 +9,7 @@ DEPRECATED
  */
 
 import pako from 'pako';
-import {utils, math} from "@xeokit/viewer";
+import {utils, math} from "ct-xeokit-viewer";
 
 function extract(elements) {
     return {

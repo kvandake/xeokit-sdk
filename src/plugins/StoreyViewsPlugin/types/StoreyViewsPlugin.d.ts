@@ -1,4 +1,4 @@
-import { PickResult, Plugin, Viewer } from "@xeokit/viewer/types";
+import { PickResult, Plugin, Viewer } from "ct-xeokit-viewer/types";
 import { Storey } from "./Storey";
 import { StoreyMap } from "./StoreyMap";
 

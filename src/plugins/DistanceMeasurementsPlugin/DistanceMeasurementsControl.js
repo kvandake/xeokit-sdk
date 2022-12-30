@@ -1,5 +1,5 @@
-import {Component, math, Marker} from "@xeokit/viewer";
-import {Dot} from "@xeokit/shared-plugin-lib";
+import {Component, math, Marker} from "ct-xeokit-viewer";
+import {Dot} from "ct-xeokit-shared-plugin-lib";
 
 /**
  * Creates {@link DistanceMeasurement}s from mouse and touch input.

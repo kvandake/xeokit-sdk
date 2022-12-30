@@ -1,4 +1,4 @@
-import { Plugin, Viewer, VBOSceneModel } from "@xeokit/viewer/types";
+import { Plugin, Viewer, VBOSceneModel } from "ct-xeokit-viewer/types";
 
 export declare interface ISTLDefaultDataSource {
   /**

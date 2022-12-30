@@ -1,4 +1,4 @@
-import {Plugin, Viewer, VBOSceneModel, IFCObjectDefaults} from "@xeokit/viewer/types";
+import {Plugin, Viewer, VBOSceneModel, IFCObjectDefaults} from "ct-xeokit-viewer/types";
 
 export declare type XKTLoaderPluginConfiguration = {
   /** Optional ID for this plugin, so that we can find it within {@link Viewer.plugins}. */

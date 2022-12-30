@@ -1,13 +1,12 @@
 {
-  "name": "@xeokit/viewer",
-  "version": "1.5.0",
+  "name": "ct-xeokit-viewer",
+  "version": "0.0.0",
   "module": "./dist/viewer.es.js",
   "main": "./dist/viewer.cjs.js",
   "types": "./types/index.d.ts",
   "private": false,
   "publishConfig": {
-    "access": "public",
-    "registry": "http://localhost:4873"
+    "access": "public"
   },
   "files": [
     "dist",

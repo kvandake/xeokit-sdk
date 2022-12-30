@@ -1,4 +1,4 @@
-import {Plugin} from "@xeokit/viewer";
+import {Plugin} from "ct-xeokit-viewer";
 
 /**
  * {@link Viewer} plugin that makes interaction smoother with large models, by temporarily switching

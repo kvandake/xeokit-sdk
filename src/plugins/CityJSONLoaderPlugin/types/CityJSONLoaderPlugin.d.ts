@@ -1,4 +1,4 @@
-import { Entity, ModelStats, Plugin, Viewer } from "@xeokit/viewer/types";
+import { Entity, ModelStats, Plugin, Viewer } from "ct-xeokit-viewer/types";
 
 export declare interface ICityJSONDefaultDataSource {
   /**

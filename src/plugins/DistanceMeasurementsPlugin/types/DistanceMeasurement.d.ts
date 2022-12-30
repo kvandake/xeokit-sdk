@@ -1,4 +1,4 @@
-import { Component, Marker } from "@xeokit/viewer/types";
+import { Component, Marker } from "ct-xeokit-viewer/types";
 import { DistanceMeasurementsPlugin } from "./DistanceMeasurementsPlugin";
 
 /**

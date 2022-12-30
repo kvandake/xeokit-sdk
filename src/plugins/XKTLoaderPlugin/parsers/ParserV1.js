@@ -9,7 +9,7 @@
  */
 
 import pako from 'pako';
-import {utils, math} from "@xeokit/viewer";
+import {utils, math} from "ct-xeokit-viewer";
 
 const decompressColor = (function () {
     const color2 = new Float32Array(3);

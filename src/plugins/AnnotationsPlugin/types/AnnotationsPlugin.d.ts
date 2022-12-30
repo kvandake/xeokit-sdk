@@ -1,4 +1,4 @@
-import { Entity, PickResult, Plugin, Viewer } from "@xeokit/viewer/types";
+import { Entity, PickResult, Plugin, Viewer } from "ct-xeokit-viewer/types";
 import { Annotation } from "./Annotation";
 
 export declare type AnnotationsPluginConfiguration = {

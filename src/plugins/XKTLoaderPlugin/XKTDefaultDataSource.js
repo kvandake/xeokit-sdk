@@ -1,4 +1,4 @@
-import {utils} from "@xeokit/viewer";
+import {utils} from "ct-xeokit-viewer";
 
 /**
  * Default data access strategy for {@link XKTLoaderPlugin}.

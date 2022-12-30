@@ -13,7 +13,7 @@ import {
     sRGBEncoding,
     utils,
     worldToRTCPositions,
-} from "@xeokit/viewer/scene";
+} from "ct-xeokit-viewer/scene";
 import {parse} from '../../../node_modules/@loaders.gl/core/dist/esm/index.js';
 import {GLTFLoader} from '../../../node_modules/@loaders.gl/gltf/dist/esm/gltf-loader.js';
 

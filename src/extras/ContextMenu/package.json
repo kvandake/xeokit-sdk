@@ -1,9 +1,9 @@
 {
-  "name": "ct-xeokit-city-json-loader-plugin",
-  "version": "0.0.0",
+  "name": "ct-xeokit-context-menu",
+  "version": "0.0.2",
   "private": false,
-  "module": "./dist/city-json-loader.es.js",
-  "main": "./dist/city-json-loader.cjs.js",
+  "module": "./dist/context-menu.es.js",
+  "main": "./dist/context-menu.cjs.js",
   "types": "./types/index.d.ts",
   "publishConfig": {
     "access": "public"
@@ -13,10 +13,9 @@
     "types"
   ],
   "scripts": {
-    "build": "rm -rf dist && cross-env NODE_ENV=production PLUGIN=city-json-loader INPUT=./index.js rollup -c ../../../rollup/rollup.packages.config.js"
+    "build": "rm -rf dist && cross-env NODE_ENV=production PLUGIN=context-menu INPUT=./index.js rollup -c ../../../rollup/rollup.packages.config.js"
   },
   "dependencies": {
-    "ct-xeokit-shared-plugin-lib": "0.0.0",
     "ct-xeokit-viewer": "0.0.0"
   },
   "description": "Web Programming Toolkit for 3D/2D BIM and AEC Graphics",

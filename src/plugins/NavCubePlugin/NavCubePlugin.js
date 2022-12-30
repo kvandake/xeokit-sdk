@@ -1,7 +1,7 @@
-import {Plugin} from "@xeokit/viewer/Plugin";
-import {math, DirLight, Mesh, ReadableGeometry, PhongMaterial, ClampToEdgeWrapping, Texture, buildCylinderGeometry} from "@xeokit/viewer/scene";
+import {Plugin} from "ct-xeokit-viewer/Plugin";
+import {math, DirLight, Mesh, ReadableGeometry, PhongMaterial, ClampToEdgeWrapping, Texture, buildCylinderGeometry} from "ct-xeokit-viewer/scene";
 import {CubeTextureCanvas} from "./CubeTextureCanvas.js";
-import {Scene} from "@xeokit/viewer";
+import {Scene} from "ct-xeokit-viewer";
 
 /**
  * {@link Viewer} plugin that lets us look at the entire {@link Scene} from along a chosen axis or diagonal.

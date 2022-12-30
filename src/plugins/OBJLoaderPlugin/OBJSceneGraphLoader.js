@@ -6,7 +6,7 @@ import {
     ReadableGeometry,
     Texture,
     worldToRTCPositions,
-} from "@xeokit/viewer/scene";
+} from "ct-xeokit-viewer/scene";
 
 const tempVec3a = math.vec3();
 

@@ -1,6 +1,6 @@
-import {Plugin} from "@xeokit/viewer";
-import {math, utils, VBOSceneModel} from "@xeokit/viewer/scene";
-import {earcut} from '@xeokit/shared-plugin-lib';
+import {Plugin} from "ct-xeokit-viewer";
+import {math, utils, VBOSceneModel} from "ct-xeokit-viewer/scene";
+import {earcut} from 'ct-xeokit-shared-plugin-lib';
 import {CityJSONDefaultDataSource} from "./CityJSONDefaultDataSource.js";
 
 const tempVec2a = math.vec2();

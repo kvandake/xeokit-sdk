@@ -1,5 +1,5 @@
-import {Component, Marker, math} from "@xeokit/viewer/scene";
-import {Dot, Label, Wire} from "@xeokit/shared-plugin-lib";
+import {Component, Marker, math} from "ct-xeokit-viewer";
+import {Dot, Label, Wire} from "ct-xeokit-shared-plugin-lib";
 
 var originVec = math.vec3();
 var targetVec = math.vec3();

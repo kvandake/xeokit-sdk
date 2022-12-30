@@ -1,5 +1,5 @@
-import {Plugin} from "@xeokit/viewer";
-import {Skybox} from "@xeokit/viewer/scene"
+import {Plugin} from "ct-xeokit-viewer";
+import {Skybox} from "ct-xeokit-viewer/scene"
 
 /**
  * {@link Viewer} plugin that manages skyboxes
